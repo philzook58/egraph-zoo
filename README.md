@@ -2,6 +2,7 @@
 Single file egraph implementations
 
 - <https://github.com/mwillsey/microegg>
+- <https://github.com/philzook58/eggmt/blob/main/eggmt/basic.py>
 
 - **[egg](https://egraphs-good.github.io/)**
 - **[egglog](https://github.com/egraphs-good/egglog)**
